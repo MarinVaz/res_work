@@ -3,3 +3,13 @@ C:\Users\Марина\Desktop\result_work\task\obj\Debug\net6.0\task.GeneratedMS
 C:\Users\Марина\Desktop\result_work\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
 C:\Users\Марина\Desktop\result_work\task\obj\Debug\net6.0\task.AssemblyInfo.cs
 C:\Users\Марина\Desktop\result_work\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\Users\Марина\Desktop\result_work\task\bin\Debug\net6.0\task.exe
+C:\Users\Марина\Desktop\result_work\task\bin\Debug\net6.0\task.deps.json
+C:\Users\Марина\Desktop\result_work\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\Users\Марина\Desktop\result_work\task\bin\Debug\net6.0\task.dll
+C:\Users\Марина\Desktop\result_work\task\bin\Debug\net6.0\task.pdb
+C:\Users\Марина\Desktop\result_work\task\obj\Debug\net6.0\task.dll
+C:\Users\Марина\Desktop\result_work\task\obj\Debug\net6.0\refint\task.dll
+C:\Users\Марина\Desktop\result_work\task\obj\Debug\net6.0\task.pdb
+C:\Users\Марина\Desktop\result_work\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\Users\Марина\Desktop\result_work\task\obj\Debug\net6.0\ref\task.dll
