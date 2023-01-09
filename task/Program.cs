@@ -1,5 +1,6 @@
 ﻿string[] array = WriteArray();
 string[] result = FindLessThan(array, 3);
+Console.WriteLine($"[{string.Join(", ", array)}] -> [{string.Join(", ", result)}]");
 
 string[] WriteArray()
 {
